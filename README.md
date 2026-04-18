@@ -169,6 +169,11 @@ Add screenshots here for portfolio polish:
 ## Suggested Demo Walkthrough (For Recruiters)
 
 1. Sign in with admin credentials and land on the analytics dashboard.
+
+
+
+
+
 2. Open Products: filter by category, search by keyword, then create/edit a product.
 3. Open Orders: search by order number, inspect customer details, and update status.
 4. Return to Dashboard and explain how summary metrics connect to operational workflows.
