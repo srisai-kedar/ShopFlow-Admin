@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+backend/shopflow.db
+node_modules/
+frontend/dist/
+.DS_Store
