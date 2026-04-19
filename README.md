@@ -7,6 +7,7 @@ Backend API: https://shopflow-admin.onrender.com
 Email: admin@shopflow.dev  
 Password: admin123
 
+## Note: If the demo is slow or unavailable, it may be due to free hosting (server sleep). Please refer to the GitHub code or run locally.
 
 ## Architecture
 
